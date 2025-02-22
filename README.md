@@ -36,6 +36,10 @@ Asegúrate de tener instalados los siguientes programas en tu sistema:
 └── README.md
 ```
 
+## Fonts utilitzades
+
+Perplexity.AI (Per aclarir alguns dubtes sobre les funcions fletxa)
+
 ## Ejecución
 
 Ejecutar JS
